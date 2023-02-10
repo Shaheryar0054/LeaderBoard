@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-body{
-  background-image: linear-gradient(45.34deg, #EA52F8 5.66%, #0066FF);
+body {
+  background-image: linear-gradient(45.34deg, #ea52f8 5.66%, #06f);
 }
 
 * {
@@ -21,7 +21,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  box-shadow: 0px 0px 32px black;
+  box-shadow: 0 0 32px black;
   background-color: #5a5a5a;
   padding: 26px;
   border-radius: 30px;
@@ -40,7 +40,7 @@ h1 {
   font-size: 43px;
   text-align: center;
   color: white;
-  box-shadow: 0px 0px 15px black;
+  box-shadow: 0 0 15px black;
 }
 
 h3 {
